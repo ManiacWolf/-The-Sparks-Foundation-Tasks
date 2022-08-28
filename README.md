@@ -46,16 +46,6 @@ _Please click on the images on right side to view my solution._
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
 
-### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
-
-1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
-1. As a business manager, try to find out the weak areas where you can work to make more profit.
-1. What all business problems you can derive by exploring the data?
-1. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
-1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
-
-
 ### # Task-6 : Timeline Analysis : Covid-19 (Level - Advanced
 
 1. Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
